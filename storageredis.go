@@ -51,7 +51,7 @@ const (
 	DefaultKeyPrefix = "caddytls"
 
 	// DefaultValuePrefix sets a prefix to KV values to check validation
-	DefaultValuePrefix = "caddy-storage-redis"
+	DefaultValuePrefix = ""
 
 	// DefaultRedisHost define the Redis instance host
 	DefaultRedisHost = "127.0.0.1"
