@@ -1,4 +1,4 @@
-module github.com/gamalan/caddy-tlsredis
+module github.com/r6digital/caddy-tlsredis
 
 go 1.12
 
